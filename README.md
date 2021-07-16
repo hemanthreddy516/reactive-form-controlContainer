@@ -4,7 +4,10 @@ Angular nested forms example with ControlContainer.
 
 # AngularReactiveFormsSample
 
-Follow the article for better understanding : https://jenniferwadella.com/blog/angular-control-container
+Follow the articles for better understanding :
+https://jenniferwadella.com/blog/angular-control-container
+
+https://tranglh.medium.com/angular-reactive-forms-how-to-structure-your-nested-forms-7dcfd487c6b3
 
 ## Development server
 
