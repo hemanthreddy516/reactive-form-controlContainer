@@ -1,0 +1,6 @@
+<h1>Nested reactive form</h1>
+<h2>Employee Info</h2>
+<form [formGroup]="employeeFormGroup">
+  <app-general-info formGroupName="generalInfo"></app-general-info>
+  <app-emergency-contacts formArrayName="emergencyContacts"></app-emergency-contacts>
+</form>
